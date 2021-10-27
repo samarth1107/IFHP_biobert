@@ -1,0 +1,13 @@
+{
+    "embeddings": [
+      {
+        "tensorName": "BioBert",
+        "tensorShape": [
+          6503,
+          769
+        ],
+        "tensorPath": "https://raw.githubusercontent.com/samarth1107/IFHP_biobert/master/biobert_wordEmb.tsv",
+        "metadataPath": "https://raw.githubusercontent.com/samarth1107/IFHP_biobert/master/metadata.tsv"
+      }
+    ]
+  }
