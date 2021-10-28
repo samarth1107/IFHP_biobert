@@ -6,6 +6,7 @@
           6503,
           769
         ],
+        "checkpointPath": "https://raw.githubusercontent.com/samarth1107/IFHP_biobert/master/config.json",
         "tensorPath": "https://raw.githubusercontent.com/samarth1107/IFHP_biobert/master/biobert_wordEmb.tsv",
         "metadataPath": "https://raw.githubusercontent.com/samarth1107/IFHP_biobert/master/metadata.tsv"
       }
